@@ -8,23 +8,23 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ecf49@cornell.edu](mailto:ecf49@cornell.edu) | | | **Phone:** +614 965 2494
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in research. Passionate about sustainable energy and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May, 2026
 
-- **[High School Name]**  
+- **Dublin Jerome High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2022
 
 ---
 
@@ -49,10 +49,10 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[The Efficiency Network] - Intern**  
+  [May, 2025] - [August, 2025]  
+  - Designed 900kW solar array through helioscope to improve current design of roof-mounted solar array for client 
+  - Assisted in project management of construction at Wilkinsburg school district 
 
 ---
 
@@ -63,8 +63,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Shimtah  
+- Volunteer for Sustainable Finger Lakes 
 
 ---
 
